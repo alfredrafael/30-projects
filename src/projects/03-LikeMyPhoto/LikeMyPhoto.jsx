@@ -36,7 +36,7 @@ export default function LikeMyPhoto() {
           <small>Doggie Dog</small>
         </div>
         <img
-          src="https://placedog.net/300/400"
+          src="https://placekitten.com/300/400"
           alt="img"
           style={{ height: "fit-content" }}
           onDoubleClick={handleLike}

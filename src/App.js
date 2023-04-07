@@ -1,7 +1,8 @@
 import "./App.css";
 // import EsignatureApp from "./projects/01-Esignature/EsignatureApp";
 // import RandomizedColors from "./projects/02-Randomized-colors/RandomizedColors";
-import LikeMyPhoto from "./projects/03-LikeMyPhoto/LikeMyPhoto";
+// import LikeMyPhoto from "./projects/03-LikeMyPhoto/LikeMyPhoto";
+import TestimonialsApp from "./projects/04-Testimonials-app/TestimonialsApp";
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
         <EsignatureApp />
       </header>
       <RandomizedColors /> */}
-      <LikeMyPhoto />
+      {/* <LikeMyPhoto /> */}
+      <TestimonialsApp />
     </div>
   );
 }
