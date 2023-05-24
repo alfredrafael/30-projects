@@ -2,7 +2,8 @@ import "./App.css";
 // import EsignatureApp from "./projects/01-Esignature/EsignatureApp";
 // import RandomizedColors from "./projects/02-Randomized-colors/RandomizedColors";
 // import LikeMyPhoto from "./projects/03-LikeMyPhoto/LikeMyPhoto";
-import TestimonialsApp from "./projects/04-Testimonials-app/TestimonialsApp";
+// import TestimonialsApp from "./projects/04-Testimonials-app/TestimonialsApp";
+import Alerts from "./projects/05-Alerts/AlertApp";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       </header>
       <RandomizedColors /> */}
       {/* <LikeMyPhoto /> */}
-      <TestimonialsApp />
+      {/* <TestimonialsApp /> */}
+      <Alerts />
     </div>
   );
 }
